@@ -1,0 +1,64 @@
+ ---:Student Details:---
+
+student: 1
+
+ Name : aditya
+ Mail : papaladitya@gmail.com
+ Mobile Number9.15602e+009
+ streamcomputer
+
+student: 2
+
+ Name : panda
+ Mail : panda@gmail.com
+ Mobile Number9.56456e+008
+ streamcomputer
+
+---:Student Details:---
+
+student: 1
+
+ Name : aditya
+ Mail : papaladitya@gmail.com
+ Mobile Number : 9.15602e+009
+ stream : cs
+
+student: 2
+
+ Name : ashutosh
+ Mail : ashutosh@gmail.com
+ Mobile Number : 9.53523e+010
+ stream : cs
+
+---:Student Details:---
+
+student: 1
+
+ Name : aditya
+ Mail : afjsf@gmail.com
+ Mobile Number : 234467
+ stream : cs
+
+student: 2
+
+ Name : sdgdf
+ Mail : asfsf@gmail.com
+ Mobile Number : 254556
+ stream : sd
+
+---:Student Details:---
+
+student: 1
+
+ Name : Aditya
+ Mail : papaladitya@gmail.com
+ Mobile Number : 9.15602e+010
+ stream : cs
+
+student: 2
+
+ Name : aditya
+ Mail : uigpoj@gmail.com
+ Mobile Number : 6.44656e+008
+ stream : cs
+
